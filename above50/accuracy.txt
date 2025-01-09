@@ -1,0 +1,24 @@
+convnextall					0.9639 
+convnextbalancednormtransf			0.7894 
+convnextdataaugmentationtransf			0.9619 
+convnextdataaugmentationtransfbalanced		0.9645 
+convnexttransf					0.8927 
+convnexttransfbal				0.8545 
+convnexttransfbalseg				0.8578 
+
+densenet121all					0.8016 
+densenet121balancednormtransf			0.7418 
+densenet121dataaugmentation			0.7915 
+densenet121dataaugmentationtrans		0.7877 
+densenet121dataaugmentationtransfbalanced	0.7976 
+densenet121dataaugtransfbalminmax		0.5631 
+densenet121trans				0.8862 
+densenet121transbal				0.8408 
+densenet121transbalseg				0.8471 
+
+resnet50all					0.9557 
+resnet50dataaugmentationtransf			0.9603 
+resnet50dataaugtransfbal			0.9564 
+resnet50transf					0.9471 
+resnet50transfbal				0.9076 
+resnet50transfbalseg				0.9043 
